@@ -15,4 +15,5 @@ MemoryPoolAllocator - аллокатор, работающий на основе
 - При освобождении через аллокатор, кусочки памяти вновь пригодны для использования
 
 Для сравнения работы PoolAllocator и std::allocator были построены графики - при использовании аллокаторов на векторе и на листе.
+![alt_text](https://github.com/DaryaPanyukova/pool-allocator/blob/main/img_vector.png)
 ![alt text](https://github.com/DaryaPanyukova/pool-allocator/blob/main/img_list.jpg)
