@@ -1,0 +1,5 @@
+if(EXISTS "D:/ITMOlabs/basics_c++/labwork-9-DaryaPanyukova/cmake-build-release/tests/allocator_tests[1]_tests.cmake")
+  include("D:/ITMOlabs/basics_c++/labwork-9-DaryaPanyukova/cmake-build-release/tests/allocator_tests[1]_tests.cmake")
+else()
+  add_test(allocator_tests_NOT_BUILT allocator_tests_NOT_BUILT)
+endif()

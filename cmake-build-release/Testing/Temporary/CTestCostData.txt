@@ -1,0 +1,4 @@
+AllocatorTestSuite.Test1 1 0.0085352
+AllocatorTestSuite.TestInt 1 0.0083217
+AllocatorTestSuite.TestDouble 1 0.0081095
+---
